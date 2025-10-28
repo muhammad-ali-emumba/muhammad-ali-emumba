@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a Software Engineer at Emumba (Private) Limited and exploring Generative AI domain particularly RAG Applications. <br>🌱 I’m currently learning Fast API and GenAI stuff.
-
+I’m Muhammad Ali, currently working as a Software Engineer(Backend) at Emumba (Private) Limited and exploring Generative AI domain particularly RAG Applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ali-4077a5245/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:se.muhammadali01@gmail.com) 
